@@ -95,3 +95,4 @@ C:\Users\aryanmishra\OneDrive - Nagarro\Desktop\WebApplication3\obj\Debug\net10.
 C:\Users\aryanmishra\OneDrive - Nagarro\Desktop\WebApplication3\obj\Debug\net10.0\WebApplication3.pdb
 C:\Users\aryanmishra\OneDrive - Nagarro\Desktop\WebApplication3\obj\Debug\net10.0\WebApplication3.genruntimeconfig.cache
 C:\Users\aryanmishra\OneDrive - Nagarro\Desktop\WebApplication3\obj\Debug\net10.0\ref\WebApplication3.dll
+C:\Users\aryanmishra\OneDrive - Nagarro\Desktop\WebApplication3\obj\Debug\net10.0\WebApplication3.sourcelink.json
